@@ -184,6 +184,6 @@ sales-reporting-automation/
 
 # 👩‍💻 Author
 
-**Kurnia Wuland**
+**Kurnia Wulandari**
 
 This project was developed as part of my automation portfolio using Google Apps Script and Google Sheets.
