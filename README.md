@@ -173,6 +173,9 @@ sales-reporting-automation/
 ├── Code.gs
 ├── README.md
 │
+├── docs/
+│   └── Sales Reporting Automation.pdf
+│
 └── images/
     ├── workflow.png
     ├── branch-sales-data.png
