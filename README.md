@@ -107,6 +107,14 @@ Marketplace transaction dataset used for marketplace reporting.
 
 ---
 
+## Daily Sales Performance & Incentive Report 
+
+Automatically generated report displaying daily sales revenue for each salesperson by branch. The report enables stakeholders to monitor sales performance and serves as the basis for daily incentive calculations.
+
+![Sales Report](images/sales-report-example.png)
+
+---
+
 ## Salesperson Incentive Summary
 
 Daily sales aggregation used for incentive calculation.
@@ -136,6 +144,15 @@ The automation significantly improves reporting efficiency by:
 
 ---
 
+## 📂 Project Files
+
+| File | Description |
+|------|-------------|
+| 📄 docs/Sales Reporting Automation.pdf | Project presentation and documentation |
+| 📊 [Open Sample Google Sheets](https://docs.google.com/spreadsheets/d/1zCQPrO8UznqGPNLicScf3MfO6OOz2WQDpM20kEA3hIc/edit?usp=sharing) | Dummy workbook |
+
+---
+
 # 💻 Tech Stack
 
 | Technology | Purpose |
@@ -159,8 +176,9 @@ sales-reporting-automation/
 └── images/
     ├── workflow.png
     ├── branch-sales-data.png
-    ├── marketplace-data.png
+    ├── sales-report-example.png
     ├── incentive-summary.png
+    ├── marketplace-data.png
     └── marketplace-summary.png
 ```
 
