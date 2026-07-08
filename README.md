@@ -148,7 +148,7 @@ The automation significantly improves reporting efficiency by:
 
 | File | Description |
 |------|-------------|
-| 📄 docs/Sales Reporting Automation.pdf | Project presentation and documentation |
+| 📄 [View Project Presentation](docs/Sales%20Reporting%20Automation.pdf) | Project presentation and documentation |
 | 📊 [Open Sample Google Sheets](https://docs.google.com/spreadsheets/d/1zCQPrO8UznqGPNLicScf3MfO6OOz2WQDpM20kEA3hIc/edit?usp=sharing) | Dummy workbook |
 
 ---
